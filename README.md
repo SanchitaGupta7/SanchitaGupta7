@@ -16,19 +16,19 @@ Most of my projects have been around web development. I've also been exploring A
 
 ### Projects
 
-**YapAI**
+**YapAI:**
 An AI chat application where I worked with the Gemini API, streaming responses, multiple chat threads, markdown rendering and voice input.
 
-**ProConnect**
+**ProConnect:**
 A professional networking platform with user profiles, connections, posts, likes, comments and a resume generator.
 
-**Confera**
+**Confera:**
 A video conferencing application built with WebRTC and Socket.IO with video calls, screen sharing, chat and meeting history.
 
-**WanderLust**
+**WanderLust:**
 A full-stack rental listing platform with authentication, authorization, listing management, reviews, image uploads and maps.
 
-**Portfolio**
+**Portfolio:**
 My personal portfolio built with React and TypeScript. I also used React Bits to experiment with interactive 3D elements.
 
 ### Currently learning
@@ -37,6 +37,6 @@ I'm working on Data Structures and Algorithms, improving my full-stack skills an
 
 ### Find me here
 
-[LinkedIn](https://www.linkedin.com/in/sanchitagupta7/)
-[Portfolio](https://portfolio-omega-five-g0cg9wtwj4.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/sanchitagupta7/) <br>
+[Portfolio](https://portfolio-omega-five-g0cg9wtwj4.vercel.app/) <br>
 [Email](guptasanchita851@gmail.com)
