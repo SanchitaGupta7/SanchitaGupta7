@@ -38,5 +38,4 @@ I'm working on Data Structures and Algorithms, improving my full-stack skills an
 ### Find me here
 
 [LinkedIn](https://www.linkedin.com/in/sanchitagupta7/) <br>
-[Portfolio](https://portfolio-omega-five-g0cg9wtwj4.vercel.app/) <br>
-[Email](guptasanchita851@gmail.com)
+[Portfolio](https://portfolio-omega-five-g0cg9wtwj4.vercel.app/)
